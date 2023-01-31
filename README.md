@@ -1,2 +1,2 @@
-# ProyectoConjunto_EJRODRIGUEZ_SCATA-O_
-En ester repositorio trabajaremos la tarea 1.
+# ProyectoConjunto_EJRODRIGUEZ_SCATAÑO_
+En este repositorio trabajaremos la tarea 1.
